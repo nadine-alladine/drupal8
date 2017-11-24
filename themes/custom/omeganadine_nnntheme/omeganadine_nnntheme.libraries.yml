@@ -1,0 +1,23 @@
+omeganadine_nnntheme:
+  omega:
+    allow_clone_for_subtheme: true
+    allow_enable_disable: true
+    title: 'Default library for the omeganadine_nnntheme theme'
+    description: 'Default Omega subtheme library description. Please provide a more meaningful description (and title) for this library by editing the omeganadine_nnntheme.libraries.yml file.'
+    scss:
+      style/css/omeganadine_nnntheme.css: 'style/scss/omeganadine_nnntheme.scss'
+  version: VERSION
+  js:
+    js/omeganadine_nnntheme.js: {}
+  css:
+    theme:
+      style/css/omeganadine_nnntheme.css: {}
+  dependencies:
+    - core/modernizr
+    - core/jquery
+    - core/drupal
+    - core/drupalSettings
+    - core/backbone
+    - core/matchmedia
+    - core/jquery.once
+

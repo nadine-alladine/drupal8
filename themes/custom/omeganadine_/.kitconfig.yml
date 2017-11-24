@@ -1,0 +1,4 @@
+build_search_replace:
+  theme_machine_name: 'omeganadine_'
+  theme_friendly_name: 'Omega Subtheme'
+  theme_description: 'A custom subtheme generated with the Omega Five subtheme generator. Edit this description in omeganadine_.info.yml'
